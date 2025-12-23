@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Sean
 
-
-
 🎓 IT Graduate | 🛡️ Cybersecurity Student | 💻 Aspiring Security Professional
 
-I hold an **Associate’s Degree in Information Technology** and I am currently pursuing a **Bachelor’s Degree in Cybersecurity**.  
+I hold an **Associate’s Degree in Information Technology**, and I am currently pursuing a **Bachelor’s Degree in Cybersecurity**.  
 I’m passionate about securing systems, learning how attacks work, and building practical skills through hands-on projects.
 
 ---
@@ -76,9 +74,8 @@ I’m passionate about securing systems, learning how attacks work, and building
 
 ## 📜 Certifications (or In Progress)
 
-- CompTIA ITF+ *(Completed / In Progress)*
-- CompTIA A+ *(Optional)*
-- CompTIA Network+ *(Planned)*
+- CompTIA A+ *(In Progress)*
+- CISSP *(Planned)*
 - CompTIA Security+ *(Planned)*
 
 ---
@@ -90,13 +87,14 @@ I’m passionate about securing systems, learning how attacks work, and building
 - IT Support / Help Desk
 - Network Security
 - Blue Team / Defensive Security
+- Red Team / Offensive Security
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourname]
+- **Email:** seanredd2002@gmail.com
+- **LinkedIn:** [[https://www.linkedin.com/in/sean-redding-aa503a293/]
 - **GitHub:** You’re already here 🙂
 
 ---
@@ -108,17 +106,4 @@ I’m passionate about securing systems, learning how attacks work, and building
 - Earn industry-recognized certifications
 - Secure an internship or entry-level cybersecurity role
 
-<!--
-**SealT6/SealT6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
